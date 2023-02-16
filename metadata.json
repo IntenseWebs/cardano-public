@@ -1,0 +1,54 @@
+{
+  "721": {
+      "b81b7ae4e4f636371beb0f2a46f17fcc90754737579dccf0ffb1f6ae": {
+      "Defund The Police Token NFT #00001": {
+        "DTPT": "Defund The Police Token",
+        "description": "Defund The Police Token - Freshly Minted Smells So Good - MINT LOGO - #0001",
+        "files": [
+          {
+            "src": "ipfs://QmNQMoY8mmukwHhPbvZD6mxaUZJg2VPXzwT9gR5ottvbVM",
+            "name": "Defund The Police Token - Freshly Minted Smells So Good - MINT LOGO - #0001",
+            "id": "1",
+            "mediaType": "image/png"
+          }
+        ],
+        "Art": [
+          "Digital drawing"
+        ],
+        "Artist": [
+          "The DTPT Creators"
+        ],
+        "Signed by": [
+          "The DTPT Creators"
+        ],
+        "Year": [
+          "2021"
+        ],
+        "Website": [
+          "https://dtpt.global"
+        ],
+        "IPFS Website": [
+          "https://dtptoken.x"
+        ],
+        "Twitter": [
+          "https://twitter.com/DTPToken"
+        ],
+        "rarity": "Super Rare",
+        "Tier": "A",
+        "trait": [
+          "Logo",
+          "First NFT"
+        ],
+        "image": "ipfs://QmNQMoY8mmukwHhPbvZD6mxaUZJg2VPXzwT9gR5ottvbVM",
+        "minting": {
+          "type": "time-lock-policy",
+          "blockchain": "cardano",
+          "mintedBeforeSlotNumber": 41548334
+        },
+        "symbol": "DTPT",
+        "tokenType": "token",
+        "totalSupply": 45000000000
+      }
+    }
+  }
+}
